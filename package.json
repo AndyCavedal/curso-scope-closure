@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "Repositorio del curso de Scope Closure sobre javascript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyCavedal/curso-scope-closure.git"
+  },
+  "keywords": [],
+  "author": "Andy Cavedal <hcavedal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyCavedal/curso-scope-closure/issues"
+  },
+  "homepage": "https://github.com/AndyCavedal/curso-scope-closure#readme"
+}
